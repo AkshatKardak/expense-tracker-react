@@ -1,4 +1,4 @@
-## Expense Tracker
+## Expense Tracker Using React
 A simple and intuitive web-based application to help you monitor your income and expenses. Built with React, this tool provides a clean, user-friendly interface for managing your personal finances with ease.
 
 ---
