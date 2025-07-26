@@ -1,29 +1,29 @@
-# 💰 Expense Tracker
-
+## Expense Tracker
 A simple and intuitive web-based application to help you monitor your income and expenses. Built with React, this tool provides a clean, user-friendly interface for managing your personal finances with ease.
 
 ---
 
-## 🚀 Features
+## Features
 
-- **Current Balance Display:**
-  - Instantly see your up-to-date financial balance.
-- **Income/Expense Summary:**
-  - Get a quick overview of your total income and total expenses.
-- **Transaction History:**
-  - View all past transactions with descriptions and amounts, clearly indicating whether each is an income or an expense.
-- **Add New Transaction:**
-  - Easily add new entries by providing a description and an amount.
-  - Positive amounts are treated as income.
-  - Negative amounts are treated as expenses.
+- Current Balance Display
+- Clearly shows your up-to-date financial balance.
+- Income/Expense Summary
+- Provides a quick overview of your total income and total expenses.
+- Transaction History
+- Displays all past transactions with their descriptions and amounts, indicating whether it's an income or an expense.
+- Add New Transaction
+- Easily add new entries by entering a description and an amount.
+- Positive amounts are treated as income.
+- Negative amounts are treated as expenses.
+
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 This project was bootstrapped with [Create React App](https://create-react-app.dev/).
 
-### 📦 Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
@@ -35,7 +35,7 @@ Runs the app in development mode. Open [http://localhost:3000](http://localhost:
 
 ---
 
-## 👥 Contributors
+## Contributors
 
 - **Akshat Kardak**  
   [GitHub Profile](https://github.com/AkshatKardak)
